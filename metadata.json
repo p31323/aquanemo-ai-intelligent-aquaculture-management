@@ -1,0 +1,5 @@
+{
+  "name": "AquaNemo AI - Intelligent Aquaculture Management",
+  "description": "A role-driven, context-aware intelligent interface for modern aquaculture management. The system adapts to the user's role (Manager, Technician, Breeder) to prioritize information and streamline operations from dashboard overviews to detailed tank management and decision support.",
+  "requestFramePermissions": []
+}
